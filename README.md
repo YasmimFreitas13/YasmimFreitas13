@@ -38,9 +38,6 @@ Interface de uma página inspirada no Spotify, desenvolvida durante a Imersão A
 
 ## ✉️ Contato
 
-Sinta-se à vontade para me chamar para trocar ideias, colaborar ou apenas conversar!
-## Contato
-
 ⚡ Estou aberta a colaborações, feedbacks ou oportunidades—sinta-se à vontade para me contatar!
 
 - 📧 [yasmimfreitas13@yahoo.com.br] 
