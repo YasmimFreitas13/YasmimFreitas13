@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 - 🌆 Moradora de **Campinas, SP** (22 anos)  
-- 💻 Futura **Desenvolvedora Full Stack**, com foco em **Front‑end**  
+- 💻 Futura **Desenvolvedora Full Stack**
 - 🛠️ Linguagens e tecnologias: HTML · CSS · JavaScript · Python  
 - 🔗 Portfólio: [portfolio-pessoal-lake.vercel.app](https://portfolio-pessoal-lake.vercel.app/)  
 - 🔗 LinkedIn: [in/yasmim‑freitas‑965377174](https://www.linkedin.com/in/yasmim-freitas-965377174)
