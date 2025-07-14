@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou a Yasmim Freitas
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🌆 Moradora de **Campinas, SP** (22 anos)  
+- 🌆 Moradora de **Campinas, SP** (23 anos)  
 - 💻 Futura **Desenvolvedora Full Stack**
 - 🛠️ Linguagens e tecnologias: HTML · CSS · JavaScript · Python  
 - 🔗 Portfólio: [portfolio-pessoal-lake.vercel.app](https://portfolio-pessoal-lake.vercel.app/)  
@@ -21,9 +21,9 @@ Projeto que explora dados sobre poluição atmosférica e apresenta informaçõe
 - **Tecnologias**: HTML, CSS, JavaScript, Python
 
 
-### 🎵 [Imersão Alura - Spotify](https://github.com/YasmimFreitas13/Spotify-Imersao-Alura)
-Interface de uma página inspirada no Spotify, desenvolvida durante a Imersão Alura.
-- **Tecnologias**: HTML, CSS, JavaScript
+### 🧮 [Calculadora em Python (https://github.com/YasmimFreitas13/Calculadora_Python)
+Este repositório contém duas versões de uma calculadora desenvolvida em Python: uma versão simples no terminal (console) e outra com interface gráfica (GUI) utilizando o módulo tkinter.
+- **Tecnologias**: Python, Tkinter
 
 ## 🛠️ Habilidades Técnicas
 
