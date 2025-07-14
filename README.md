@@ -2,8 +2,8 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 - 🌆 Moradora de **Campinas, SP** (23 anos)  
-- 💻 Futura **Desenvolvedora Full Stack**
-- 🛠️ Linguagens e tecnologias: HTML · CSS · JavaScript · Python  
+- 💻 **Desenvolvedora Full Stack**
+- 🛠️ Linguagens e tecnologias: HTML · CSS · JavaScript · Python 
 - 🔗 Portfólio: [portfolio-pessoal-lake.vercel.app](https://portfolio-pessoal-lake.vercel.app/)  
 - 🔗 LinkedIn: [in/yasmim‑freitas‑965377174](https://www.linkedin.com/in/yasmim-freitas-965377174)
 
@@ -21,7 +21,7 @@ Projeto que explora dados sobre poluição atmosférica e apresenta informaçõe
 - **Tecnologias**: HTML, CSS, JavaScript, Python
 
 
-### 🧮 [Calculadora em Python (https://github.com/YasmimFreitas13/Calculadora_Python)
+### 🧮 [Calculadora em Python](https://github.com/YasmimFreitas13/Calculadora_Python)
 Este repositório contém duas versões de uma calculadora desenvolvida em Python: uma versão simples no terminal (console) e outra com interface gráfica (GUI) utilizando o módulo tkinter.
 - **Tecnologias**: Python, Tkinter
 
@@ -38,7 +38,7 @@ Este repositório contém duas versões de uma calculadora desenvolvida em Pytho
 
 ## ✉️ Contato
 
-⚡ Estou aberta a colaborações, feedbacks ou oportunidades—sinta-se à vontade para me contatar!
+⚡ Estou aberta a colaborações, feedbacks ou oportunidades, sinta-se à vontade para me contatar!
 
 - 📧 [yasmimfreitas13@yahoo.com.br] 
 - 💬 Conecte-se no LinkedIn acima
