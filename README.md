@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou a Yasmim Freitas
+💜 Olá, sou a Yasmim Freitas! 
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 - 🌆 Moradora de **Campinas, SP** (23 anos)  
@@ -9,21 +9,12 @@
 
 ---
 
-## 🌟 Projetos em Destaque
+⭐ Estatísticas do GitHub
 
-### 🎨 [Portfólio Pessoal](https://github.com/YasmimFreitas13/Portfolio_Pessoal)
-Um portfólio moderno e responsivo criado para apresentar meus projetos e habilidades.
-- **Tecnologias**: HTML, CSS, JavaScript
-
-
-### 🌍 [Qualidade do Ar](https://github.com/YasmimFreitas13/Qualidade_do_Ar)
-Projeto que explora dados sobre poluição atmosférica e apresenta informações de forma clara e acessível.
-- **Tecnologias**: HTML, CSS, JavaScript, Python
-
-
-### 🧮 [Calculadora em Python](https://github.com/YasmimFreitas13/Calculadora_Python)
-Este repositório contém duas versões de uma calculadora desenvolvida em Python: uma versão simples no terminal (console) e outra com interface gráfica (GUI) utilizando o módulo tkinter.
-- **Tecnologias**: Python, Tkinter
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## 🛠️ Habilidades Técnicas
 
