@@ -61,5 +61,3 @@ Este repositório contém duas versões de uma calculadora desenvolvida em Pytho
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimFreitas13&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
 
-> Estou aberta a colaborações, feedbacks ou oportunidades. Sinta-se à vontade para me contatar!
-
