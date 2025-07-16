@@ -11,7 +11,7 @@
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [Qualidade do Ar]([https://github.com/YasmimFreitas13/Air_Quality_FullStack](https://github.com/YasmimFreitas13/Qualidade_do_Ar)  
+### 🔹 [Qualidade do Ar](https://github.com/YasmimFreitas13/Qualidade_do_Ar)  
 Projeto que explora dados sobre qualidade atmosférica e apresenta informações de forma clara e acessível.  
 **Tecnologias:** HTML, CSS, JavaScript, Python
 
