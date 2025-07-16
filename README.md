@@ -1,4 +1,4 @@
- <h1 align="center">💜 Olá, sou a Yasmim Freitas</h1>
+# 💜 Olá, sou a Yasmim Freitas!
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 - 📍 Morando em Campinas, SP (23 anos)  
@@ -54,10 +54,12 @@ Este repositório contém duas versões de uma calculadora desenvolvida em Pytho
 
 ---
 
-## 📬 Contato
+## ⭐ Estatísticas do GitHub
 
-- ✉️ Email: [yasmimfreitas13@yahoo.com.br](mailto:yasmimfreitas13@yahoo.com.br)  
-- 💼 Conecte-se no [LinkedIn](https://www.linkedin.com/in/yasmimfreitas-965977174/)  
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YasmimFreitas13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimFreitas13&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
 
 > Estou aberta a colaborações, feedbacks ou oportunidades. Sinta-se à vontade para me contatar!
 
