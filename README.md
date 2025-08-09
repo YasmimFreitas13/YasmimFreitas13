@@ -12,8 +12,7 @@
 ## 📌 Projetos em Destaque
 
 ### 🔹 [Imersão Dados com Python Alura](https://github.com/YasmimFreitas13/Imersao_Alura_Python.git)  
-Este repositório reúne os projetos desenvolvidos durante a Imersão Dados com Python da Alura. 
-O objetivo é criar um dashboard interativo para análise de dados salariais na área de dados. 
+Este repositório reúne os projetos desenvolvidos durante a Imersão Dados com Python da Alura. O objetivo é criar um dashboard interativo para análise de dados salariais na área de dados. 
 **Tecnologias:** Python, Pandas, Plotly, Streamlit, PyCountry
 
 ---
