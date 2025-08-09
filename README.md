@@ -59,20 +59,3 @@ Este repositório contém duas versões de uma calculadora desenvolvida em Pytho
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YasmimFreitas13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimFreitas13&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
----
-
-## 🛠️ Ferramentas de Desenvolvimento
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
-</p>
-
----
-
-## ⭐ Estatísticas do GitHub
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YasmimFreitas13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimFreitas13&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
-
