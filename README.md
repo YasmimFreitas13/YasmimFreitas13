@@ -3,7 +3,7 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 - 📍 Morando em Campinas, SP (23 anos)  
 - 💻 Desenvolvedora Full Stack  
-- 🛠️ Linguagens e tecnologias: HTML - CSS - JavaScript - Python  
+- 🛠️ Linguagens e tecnologias: Python - HTML - CSS - JavaScript
 - 🌐 Portfólio: [portfolio-pessoal-lake.vercel.app](https://portfolio-pessoal-lake.vercel.app)  
 - 🔗 LinkedIn: [yasmimfreitas-965977174](https://www.linkedin.com/in/yasmimfreitas-965977174/)
 
@@ -11,9 +11,9 @@
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [Qualidade do Ar](https://github.com/YasmimFreitas13/Qualidade_do_Ar)  
-Projeto que explora dados sobre qualidade atmosférica e apresenta informações de forma clara e acessível.  
-**Tecnologias:** HTML, CSS, JavaScript, Python
+### 🔹 [Imersão Dados com Python Alura](https://github.com/YasmimFreitas13/Imersao_Alura_Python.git)  
+Este repositório reúne os projetos desenvolvidos durante a Imersão Dados com Python da Alura. O objetivo é criar um dashboard interativo para análise de dados salariais na área de dados. 
+**Tecnologias:** Python, Pandas, Plotly, Streamlit, PyCountry
 
 ---
 
