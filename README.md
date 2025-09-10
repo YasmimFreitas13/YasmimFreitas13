@@ -35,14 +35,14 @@ Este repositório contém duas versões de uma calculadora desenvolvida em Pytho
       <img src="https://skillicons.dev/icons?i=html,css,js,python" height="40" />
     </td>
     <td align="center" width="300px">
-      <h3>📚 Frameworks & Bibliotecas</h3>
-      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /><br/>
-      <img src="https://skillicons.dev/icons?i=flask" height="40" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyCountry-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
+  <h3>📚 Frameworks & Bibliotecas</h3>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=000000" /><br/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" /><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" /><br/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=3F4F75" /><br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=FF4B4B" /><br/>
+  <img src="https://img.shields.io/badge/PyCountry-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+</td>
     <td align="center" width="300px">
       <h3>🛠️ Ferramentas</h3>
       <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
