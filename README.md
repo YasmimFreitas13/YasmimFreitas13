@@ -36,24 +36,19 @@ Este repositório contém duas versões de uma calculadora desenvolvida em Pytho
     </td>
     <td align="center" width="300px">
       <h3>📚 Frameworks & Bibliotecas</h3>
-      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=000000" /><br/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" /><br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" /><br/>
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&labelColor=3F4F75" /><br/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=FF4B4B" /><br/>
-      <img src="https://img.shields.io/badge/PyCountry-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+      <img src="https://skillicons.dev/icons?i=flask,pandas,plotly,streamlit" height="40" /><br/>
+      <!-- PyCountry não existe no skillicons, então podemos deixar com ícone do Python -->
+      <img src="https://skillicons.dev/icons?i=python" height="40" title="PyCountry" />
+      <img src="https://skillicons.dev/icons?i=json" height="40" title="JSON" />
     </td>
     <td align="center" width="300px">
       <h3>🛠️ Ferramentas</h3>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" /><br/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /><br/>
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
     </td>
   </tr>
 </table>
 
 </div>
-
 
 ---
 
