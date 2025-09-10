@@ -1,5 +1,3 @@
-consegue implementar nesse código?
-
 # 💜 Olá, sou a Yasmim Freitas!
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
