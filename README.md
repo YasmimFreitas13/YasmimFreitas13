@@ -1,3 +1,5 @@
+consegue implementar nesse código?
+
 # 💜 Olá, sou a Yasmim Freitas!
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
@@ -24,31 +26,31 @@ Este repositório contém duas versões de uma calculadora desenvolvida em Pytho
 
 ---
 
-## 🚀 Tecnologias
+## 🧠 Tecnologias e Linguagens 🖥️
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" height="40" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="300px">
-      <h3>🧠 Linguagens</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,python" height="40" />
-    </td>
-    <td align="center" width="300px">
-      <h3>📚 Frameworks & Bibliotecas</h3>
-      <img src="https://skillicons.dev/icons?i=flask,pandas,plotly,streamlit" height="40" /><br/>
-      <!-- PyCountry não existe no skillicons, então podemos deixar com ícone do Python -->
-      <img src="https://skillicons.dev/icons?i=python" height="40" title="PyCountry" />
-      <img src="https://skillicons.dev/icons?i=json" height="40" title="JSON" />
-    </td>
-    <td align="center" width="300px">
-      <h3>🛠️ Ferramentas</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
-    </td>
-  </tr>
-</table>
+---
 
-</div>
+## 🚀 Frameworks e Bibliotecas
+
+<p>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCountry-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+## 🛠️ Ferramentas de Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
 
 ---
 
