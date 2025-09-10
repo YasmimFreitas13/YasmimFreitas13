@@ -45,12 +45,15 @@ Este repositório contém duas versões de uma calculadora desenvolvida em Pytho
     </td>
     <td align="center" width="300px">
       <h3>🛠️ Ferramentas</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" /><br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /><br/>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC" />
     </td>
   </tr>
 </table>
 
 </div>
+
 
 ---
 
