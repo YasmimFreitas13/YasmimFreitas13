@@ -1,4 +1,4 @@
-# 💜 Olá, sou a Yasmim Freitas!
+# 💙_💙 Olá, sou a Yasmim Freitas! 💙_💙
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 - 📍 Morando em Campinas, SP (23 anos)  
