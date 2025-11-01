@@ -1,4 +1,4 @@
-# 💙_💙 Olá, sou a Yasmim Freitas! 💙_💙
+# 💙 Olá, sou a Yasmim Freitas! 💙
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 - 📍 Morando em Campinas, SP (23 anos)  
@@ -10,6 +10,12 @@
 ---
 
 ## 📌 Projetos em Destaque
+
+### 🔹 [Qualidade do Ar Fiape + Alura](https://github.com/YasmimFreitas13/Qualidade_do_Ar.git)  
+Este projeto é uma aplicação web simples que permite consultar a qualidade do ar em diferentes cidades, utilizando dados de poluição atmosférica. 
+É uma ferramenta útil para verificar os níveis de poluentes e entender o impacto na saúde respiratória.
+🔗 **Acesse o projeto online:** [qualidade-do-ar-1.onrender.com/](https://qualidade-do-ar-1.onrender.com/)  
+**Tecnologias:** Python, Flask, JavaScript, HTML, CSS
 
 ### 🔹 [Imersão Dados com Python - Alura](https://github.com/YasmimFreitas13/Imersao_Alura_Python)  
 Projeto desenvolvido durante a **Imersão Dados com Python** da Alura, com o objetivo de criar um **dashboard interativo** para análise de dados salariais na área de dados. O projeto utiliza bibliotecas para manipulação de dados, visualização interativa e integração web.  
