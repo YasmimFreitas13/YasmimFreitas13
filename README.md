@@ -1,6 +1,7 @@
 # 💙 Olá, sou a Yasmim Freitas! 💙
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💼 Estagiária em Ciência de Dados na **Ypê**
 - 📍 Morando em Campinas, SP (23 anos)  
 - 💻 Desenvolvedora Full Stack  
 - 🛠️ Linguagens e tecnologias: Python - HTML - CSS - JavaScript
@@ -78,6 +79,6 @@ Projeto de front-end desenvolvido durante a **Imersão Alura** para replicar a i
 ## ⭐ Estatísticas do GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YasmimFreitas13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimFreitas13&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YasmimFreitas13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimFreitas13&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
